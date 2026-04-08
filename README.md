@@ -34,5 +34,3 @@ Busco desenvolver soluções eficientes, escaláveis e bem estruturadas, enquant
 
 Atualmente estou focado em aprender e construir minha base.
 Em breve estarei adicionando projetos aqui!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseFelipeSantos&show_icons=true&theme=tokyonight)
