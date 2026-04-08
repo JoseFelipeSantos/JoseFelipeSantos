@@ -22,9 +22,12 @@ Busco desenvolver soluções eficientes, escaláveis e bem estruturadas, enquant
 
 <h2>📊 Estatísticas</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseFelipeSantos&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseFelipeSantos&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseFelipeSantos&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseFelipeSantos&layout=compact&theme=tokyonight" />
 </p>
 ---
 
