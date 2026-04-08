@@ -20,12 +20,15 @@ Busco desenvolver soluções eficientes, escaláveis e bem estruturadas, enquant
 
 ---
 
-## 📊 Estatísticas
+<h2>📊 Estatísticas</h2>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoseFelipeSantos&show_icons=true&theme=tokyonight)
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseFelipeSantos&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoseFelipeSantos&layout=compact&theme=tokyonight)
-
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseFelipeSantos&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 📌 Projetos
