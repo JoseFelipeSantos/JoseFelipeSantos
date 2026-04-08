@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, me chamo José Felipe
 
-<!--
-**JoseFelipeSantos/JoseFelipeSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de **Engenharia de Software**.
+- 🔐 Interessado em **Back-end** e **Cybersegurança**.
+- 🚀 Em constante evolução na área de programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou um desenvolvedor em formação, com foco em construção de sistemas back-end, lógica e estrutura de aplicações.
+
+Busco desenvolver soluções eficientes, escaláveis e bem estruturadas, enquanto fortaleço minha base em programação.
+
+- 📚 Atualmente estudando: C, C# e JavaScript
+- 🛠️ IDEs: VS Code, Visual Studio
+- 🔧 Ferramentas: Git
+- 🌱 Aprendendo: lógica de programação, estruturas de dados e APIs
+- 🎯 Objetivo: me tornar um desenvolvedor back-end profissional
+
+---
+
+## 📌 Projetos
+
+🚧 Ainda em desenvolvimento...
+
+Atualmente estou focado em aprender e construir minha base.
+Em breve estarei adicionando projetos aqui!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fe&layout=compact&theme=tokyonight)
